@@ -1,4 +1,4 @@
-"@context": {
+{"@context": {
         "id": "@id",
         "type": "@type",
         "ngsi-ld": "https://uri.etsi.org/ngsi-ld/",
@@ -12,3 +12,4 @@
         "ontologyVersion": "https://raw.githubusercontent.com/SAMSGBLab/CCduit/main/Data%20Models/DataModel/type-definitions.json#ontologyVersion",
         "ontologyURL": "https://raw.githubusercontent.com/SAMSGBLab/CCduit/main/Data%20Models/DataModel/type-definitions.json#ontologyURL"
         }
+}
