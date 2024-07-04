@@ -4,12 +4,12 @@
         "ngsi-ld": "https://uri.etsi.org/ngsi-ld/",
         "fiware": "https://uri.fiware.org/ns/dataModels#",
         "schema": "https://schema.org/",
-        "DataModel": "https://github.com/NiematKhoder/test/blob/main/type-definitions.json#DataModel",
-        "name": "https://github.com/NiematKhoder/test/blob/main/type-definitions.json#name",
-        "description": "https://github.com/NiematKhoder/test/blob/main/type-definitions.json#description",
-        "modelFormat": "https://github.com/NiematKhoder/test/blob/main/type-definitions.json#modelFormat",
-        "ontology": "https://github.com/NiematKhoder/test/blob/main/type-definitions.json#ontology",
-        "ontologyVersion": "https://github.com/NiematKhoder/test/blob/main/type-definitions.json#ontologyVersion",
-        "ontologyURL": "https://github.com/NiematKhoder/test/blob/main/type-definitions.json#ontologyURL"
+        "DataModel": "https://raw.githubusercontent.com/NiematKhoder/test/main/type-definitions.json#DataModel",
+        "name": "https://raw.githubusercontent.com/NiematKhoder/test/main/type-definitions.json.json#name",
+        "description": "https://raw.githubusercontent.com/NiematKhoder/test/main/type-definitions.json.json#description",
+        "modelFormat": "https://raw.githubusercontent.com/NiematKhoder/test/main/type-definitions.json#modelFormat",
+        "ontology": "https://raw.githubusercontent.com/NiematKhoder/test/main/type-definitions.json#ontology",
+        "ontologyVersion": "https://raw.githubusercontent.com/NiematKhoder/test/main/type-definitions.json#ontologyVersion",
+        "ontologyURL": "https://raw.githubusercontent.com/NiematKhoder/test/main/type-definitions.json#ontologyURL"
         }
 }
