@@ -1,0 +1,15 @@
+{"@context": {
+        "id": "@id",
+        "type": "@type",
+        "ngsi-ld": "https://uri.etsi.org/ngsi-ld/",
+        "fiware": "https://uri.fiware.org/ns/dataModels#",
+        "schema": "https://schema.org/",
+        "DataModel": "https://raw.githubusercontent.com/NiematKhoder/test/main/type-definitions.json#DataModel",
+        "name": "https://raw.githubusercontent.com/NiematKhoder/test/main/type-definitions.json.json#name",
+        "description": "https://raw.githubusercontent.com/NiematKhoder/test/main/type-definitions.json.json#description",
+        "modelFormat": "https://raw.githubusercontent.com/NiematKhoder/test/main/type-definitions.json#modelFormat",
+        "ontology": "https://raw.githubusercontent.com/NiematKhoder/test/main/type-definitions.json#ontology",
+        "ontologyVersion": "https://raw.githubusercontent.com/NiematKhoder/test/main/type-definitions.json#ontologyVersion",
+        "ontologyURL": "https://raw.githubusercontent.com/NiematKhoder/test/main/type-definitions.json#ontologyURL"
+        }
+}
